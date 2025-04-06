@@ -1,0 +1,3 @@
+[2025-04-05 18:05:00,166]:INFO:bot_logger:Successfully started logger, time_usec - 1743865500.166095
+[2025-04-05 18:05:00,166]:INFO:bot_logger:Successfully loaded config-file
+[2025-04-05 18:05:00,167]:INFO:bot_logger:Starting bot

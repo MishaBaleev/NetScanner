@@ -1,0 +1,8 @@
+[2025-04-05 18:43:35,124]:INFO:bot_logger:Successfully started logger, time_usec - 1743867815.124754
+[2025-04-05 18:43:35,124]:INFO:bot_logger:Successfully loaded config-file
+[2025-04-05 18:43:35,125]:INFO:bot_logger:Scanner object created
+[2025-04-05 18:43:35,125]:INFO:bot_logger:Starting bot
+[2025-04-05 18:43:36,916]:INFO:bot_logger:Recieve message with text - Anyone Home? from chat - 834061658
+[2025-04-05 18:43:36,916]:INFO:bot_logger:Start scanning...
+[2025-04-05 18:43:37,398]:INFO:bot_logger:Sended message to 834061658
+[2025-04-05 18:43:40,797]:INFO:bot_logger:Sended message to 834061658

@@ -1,0 +1,4 @@
+[2025-04-05 18:10:37,300]:INFO:bot_logger:Successfully started logger, time_usec - 1743865837.300203
+[2025-04-05 18:10:37,300]:INFO:bot_logger:Successfully loaded config-file
+[2025-04-05 18:10:37,301]:INFO:bot_logger:Starting bot
+[2025-04-05 18:10:48,146]:INFO:bot_logger:Recieve message with text - Кто дома from chat - 834061658
