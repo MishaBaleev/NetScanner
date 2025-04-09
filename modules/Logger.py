@@ -1,8 +1,8 @@
 import logging 
 from logging import StreamHandler, FileHandler, Formatter
 import sys
-import os
 import time
+import os
 
 class CustomFormatter(logging.Formatter):
     grey = "\033[37m"
@@ -40,11 +40,15 @@ class Logger:
         handler = StreamHandler(stream=sys.stdout)
         handler.setFormatter(CustomFormatter())
         self.logger.addHandler(handler)
-        file_path = f'./logs/log_{time.time()}.txt'
+        file_path = f'{os.getcwd()}/logs/scanning_log.txt'
         log_handler = FileHandler(file_path,mode="w",encoding="utf-8")
         log_handler.setFormatter(Formatter(fmt='[%(asctime)s]:%(levelname)s:%(name)s:%(message)s'))
         self.logger.addHandler(log_handler)
-        self.logger.info(f"Successfully started logger, time_usec - {time.time()}")
 
     def disable(self):
         self.logger.handlers.clear()
+
+    def refresh(self) -> None:
+        self.disable() 
+        os.remove(os.getcwd()+"/logs/scanning_log.txt")
+        self.start()

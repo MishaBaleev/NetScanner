@@ -1,0 +1,20 @@
+[2025-04-06 21:23:44,142]:INFO:bot_logger:Successfully started logger
+
+[2025-04-06 21:23:44,154]:INFO:bot_logger:Successfully loaded config-file
+
+[2025-04-06 21:23:44,155]:INFO:bot_logger:Scanner object created
+
+[2025-04-06 21:23:44,155]:INFO:bot_logger:Starting bot
+
+[2025-04-06 21:23:44,409]:INFO:bot_logger:Keep-alive signal sent
+
+[2025-04-06 21:23:51,309]:INFO:bot_logger:Input message with text - Anyone Home? from chat - 834061658
+
+[2025-04-06 21:23:51,530]:INFO:bot_logger:Start scanning...
+
+[2025-04-06 21:23:51,530]:INFO:bot_logger:Scanning: 192.168.0.1-192.168.0.254
+
+[2025-04-06 21:23:51,626]:INFO:bot_logger:Sended message to 834061658
+
+[2025-04-06 21:24:00,169]:INFO:bot_logger:Sended message to 834061658
+

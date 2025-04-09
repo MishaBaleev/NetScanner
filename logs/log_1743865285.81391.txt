@@ -1,2 +1,0 @@
-[2025-04-05 18:01:25,814]:INFO:bot_logger:Successfully started logger, time_usec - 1743865285.8140202
-[2025-04-05 18:01:25,814]:CRITICAL:bot_logger:Error while loading config, err - [Errno 2] No such file or directory: './config2.json'

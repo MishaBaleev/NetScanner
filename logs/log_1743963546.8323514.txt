@@ -1,0 +1,4 @@
+[2025-04-06 21:19:06,832]:INFO:bot_logger:Successfully started logger
+
+[2025-04-06 21:19:06,835]:INFO:bot_logger:Successfully loaded config-file
+

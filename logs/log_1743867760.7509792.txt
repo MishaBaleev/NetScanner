@@ -1,8 +1,0 @@
-[2025-04-05 18:42:40,751]:INFO:bot_logger:Successfully started logger, time_usec - 1743867760.751064
-[2025-04-05 18:42:40,751]:INFO:bot_logger:Successfully loaded config-file
-[2025-04-05 18:42:40,751]:INFO:bot_logger:Scanner object created
-[2025-04-05 18:42:40,751]:INFO:bot_logger:Starting bot
-[2025-04-05 18:42:44,200]:INFO:bot_logger:Recieve message with text - Anyone Home? from chat - 834061658
-[2025-04-05 18:42:44,201]:INFO:bot_logger:Start scanning...
-[2025-04-05 18:42:44,552]:INFO:bot_logger:Sended message - Сканирую сеть: 172.20.10.1-172.20.10.254 to 834061658
-[2025-04-05 18:42:47,881]:INFO:bot_logger:Sended message - ---Обнаруженные устройства в сети-----n--IP-Адрес--t--MAC-Адрес--n----------------------------------n--172.20.10.1--t--Undefinite--n--172.20.10.2--t--Undefinite--n--172.20.10.15--t--Undefinite--n-- to 834061658

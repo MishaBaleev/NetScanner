@@ -6,10 +6,9 @@ import ujson as json
 def loadConfig(logger:object) -> dict or None:
     try:
         with open("./config.json", "r") as config: 
-            logger.logger.info(f"Successfully loaded config-file")
             return json.loads(config.read())
     except Exception as err:
-        logger.logger.critical(f"Error while loading config, err - {err}")
+        logger.logger.critical(f"Error while loading config, err - {err}\n")
         return None
 
 

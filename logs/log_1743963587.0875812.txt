@@ -1,0 +1,6 @@
+[2025-04-06 21:19:47,087]:INFO:bot_logger:Successfully started logger
+
+[2025-04-06 21:19:47,091]:INFO:bot_logger:Successfully loaded config-file
+
+[2025-04-06 21:19:47,263]:INFO:bot_logger:Scanner object created
+

@@ -1,6 +1,12 @@
 {
     "chat_id": 834061658,
-    "mac_table": {
-        
-    }
+    "mac_table": [
+        {"mac": "4e:f1:35:1e:bf:2a", "hostname": "dlinkrouter", "id_name": "Iphone_Mikhail"},
+        {"mac": "b4:cd:27:b2:b6:8b", "hostname": "Honor_7C-8e113ec582966e12", "id_name": "Android_Server"},
+        {"mac": "bc:0f:9a:26:53:d4", "hostname": "", "id_name": "Wi-Fi_Router"},
+        {"mac": "0e:0f:9b:e6:8a:aa", "hostname": "", "id_name": "MacBook_Mikhail"},
+        {"mac": "d6:11:e6:53:e1:ad", "hostname": "", "id_name": "AppleWatch_Mikhail"},
+        {"mac": "", "hostname": "Retro", "id_name": "PC_Mikhail"},
+        {"mac": "fa:79:2b:70:aa:56", "hostname": "iPhone", "id_name": "Iphone_Sasha"}
+    ]
 }

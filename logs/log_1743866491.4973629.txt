@@ -1,4 +1,0 @@
-[2025-04-05 18:21:31,497]:INFO:bot_logger:Successfully started logger, time_usec - 1743866491.497472
-[2025-04-05 18:21:31,498]:INFO:bot_logger:Successfully loaded config-file
-[2025-04-05 18:21:31,498]:INFO:bot_logger:Scanner object created
-[2025-04-05 18:21:31,498]:INFO:bot_logger:Starting bot
